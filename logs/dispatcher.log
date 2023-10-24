@@ -1,0 +1,61 @@
+holla
+hello
+sdfsdf
+dsd
+
+
+sdfsdfs
+sdfsdf
+dfsdf
+sdfsdfsdfsdfsdfsdfsdf
+
+🧐
+hello from caht
+hello
+hello
+ku epta
+Unsupported message type is : Update(updateId=138177681, message=null, inlineQuery=null, chosenInlineQuery=null, callbackQuery=null, editedMessage=null, channelPost=null, editedChannelPost=null, shippingQuery=null, preCheckoutQuery=null, poll=null, pollAnswer=null, myChatMember=ChatMemberUpdated(chat=Chat(id=991871496, type=private, title=null, firstName=Ку, lastName=null, userName=lavahmet, photo=null, description=null, inviteLink=null, pinnedMessage=null, stickerSetName=null, canSetStickerSet=null, permissions=null, slowModeDelay=null, bio=null, linkedChatId=null, location=null, messageAutoDeleteTime=null, hasPrivateForwards=null, HasProtectedContent=null, joinToSendMessages=null, joinByRequest=null, hasRestrictedVoiceAndVideoMessages=null, isForum=null, activeUsernames=null, emojiStatusCustomEmojiId=null, hasAggressiveAntiSpamEnabled=null, hasHiddenMembers=null, emojiStatusExpirationDate=null), from=User(id=991871496, firstName=Ку, isBot=false, lastName=null, userName=lavahmet, languageCode=ru, canJoinGroups=null, canReadAllGroupMessages=null, supportInlineQueries=null, isPremium=null, addedToAttachmentMenu=null), date=1697289711, oldChatMember=ChatMemberMember(status=member, user=User(id=6230317692, firstName=Kladowka, isBot=true, lastName=null, userName=kladowkabot, languageCode=null, canJoinGroups=null, canReadAllGroupMessages=null, supportInlineQueries=null, isPremium=null, addedToAttachmentMenu=null)), newChatMember=ChatMemberBanned(status=kicked, user=User(id=6230317692, firstName=Kladowka, isBot=true, lastName=null, userName=kladowkabot, languageCode=null, canJoinGroups=null, canReadAllGroupMessages=null, supportInlineQueries=null, isPremium=null, addedToAttachmentMenu=null), untilDate=0), inviteLink=null, viaChatFolderInviteLink=null), chatMember=null, chatJoinRequest=null)
+Unsupported message type is : Update(updateId=138177682, message=null, inlineQuery=null, chosenInlineQuery=null, callbackQuery=null, editedMessage=null, channelPost=null, editedChannelPost=null, shippingQuery=null, preCheckoutQuery=null, poll=null, pollAnswer=null, myChatMember=ChatMemberUpdated(chat=Chat(id=991871496, type=private, title=null, firstName=Ку, lastName=null, userName=lavahmet, photo=null, description=null, inviteLink=null, pinnedMessage=null, stickerSetName=null, canSetStickerSet=null, permissions=null, slowModeDelay=null, bio=null, linkedChatId=null, location=null, messageAutoDeleteTime=null, hasPrivateForwards=null, HasProtectedContent=null, joinToSendMessages=null, joinByRequest=null, hasRestrictedVoiceAndVideoMessages=null, isForum=null, activeUsernames=null, emojiStatusCustomEmojiId=null, hasAggressiveAntiSpamEnabled=null, hasHiddenMembers=null, emojiStatusExpirationDate=null), from=User(id=991871496, firstName=Ку, isBot=false, lastName=null, userName=lavahmet, languageCode=ru, canJoinGroups=null, canReadAllGroupMessages=null, supportInlineQueries=null, isPremium=null, addedToAttachmentMenu=null), date=1697289712, oldChatMember=ChatMemberBanned(status=kicked, user=User(id=6230317692, firstName=Kladowka, isBot=true, lastName=null, userName=kladowkabot, languageCode=null, canJoinGroups=null, canReadAllGroupMessages=null, supportInlineQueries=null, isPremium=null, addedToAttachmentMenu=null), untilDate=0), newChatMember=ChatMemberMember(status=member, user=User(id=6230317692, firstName=Kladowka, isBot=true, lastName=null, userName=kladowkabot, languageCode=null, canJoinGroups=null, canReadAllGroupMessages=null, supportInlineQueries=null, isPremium=null, addedToAttachmentMenu=null)), inviteLink=null, viaChatFolderInviteLink=null), chatMember=null, chatJoinRequest=null)
+/start
+/help
+/registration
+/cancel
+/some_test_command
+
+
+
+
+
+
+
+Unsupported message type is : Update(updateId=138177695, message=null, inlineQuery=null, chosenInlineQuery=null, callbackQuery=null, editedMessage=null, channelPost=null, editedChannelPost=null, shippingQuery=null, preCheckoutQuery=null, poll=null, pollAnswer=null, myChatMember=ChatMemberUpdated(chat=Chat(id=991871496, type=private, title=null, firstName=Ку, lastName=null, userName=lavahmet, photo=null, description=null, inviteLink=null, pinnedMessage=null, stickerSetName=null, canSetStickerSet=null, permissions=null, slowModeDelay=null, bio=null, linkedChatId=null, location=null, messageAutoDeleteTime=null, hasPrivateForwards=null, HasProtectedContent=null, joinToSendMessages=null, joinByRequest=null, hasRestrictedVoiceAndVideoMessages=null, isForum=null, activeUsernames=null, emojiStatusCustomEmojiId=null, hasAggressiveAntiSpamEnabled=null, hasHiddenMembers=null, emojiStatusExpirationDate=null), from=User(id=991871496, firstName=Ку, isBot=false, lastName=null, userName=lavahmet, languageCode=ru, canJoinGroups=null, canReadAllGroupMessages=null, supportInlineQueries=null, isPremium=null, addedToAttachmentMenu=null), date=1697294251, oldChatMember=ChatMemberMember(status=member, user=User(id=6230317692, firstName=Kladowka, isBot=true, lastName=null, userName=kladowkabot, languageCode=null, canJoinGroups=null, canReadAllGroupMessages=null, supportInlineQueries=null, isPremium=null, addedToAttachmentMenu=null)), newChatMember=ChatMemberBanned(status=kicked, user=User(id=6230317692, firstName=Kladowka, isBot=true, lastName=null, userName=kladowkabot, languageCode=null, canJoinGroups=null, canReadAllGroupMessages=null, supportInlineQueries=null, isPremium=null, addedToAttachmentMenu=null), untilDate=0), inviteLink=null, viaChatFolderInviteLink=null), chatMember=null, chatJoinRequest=null)
+Unsupported message type is : Update(updateId=138177696, message=null, inlineQuery=null, chosenInlineQuery=null, callbackQuery=null, editedMessage=null, channelPost=null, editedChannelPost=null, shippingQuery=null, preCheckoutQuery=null, poll=null, pollAnswer=null, myChatMember=ChatMemberUpdated(chat=Chat(id=991871496, type=private, title=null, firstName=Ку, lastName=null, userName=lavahmet, photo=null, description=null, inviteLink=null, pinnedMessage=null, stickerSetName=null, canSetStickerSet=null, permissions=null, slowModeDelay=null, bio=null, linkedChatId=null, location=null, messageAutoDeleteTime=null, hasPrivateForwards=null, HasProtectedContent=null, joinToSendMessages=null, joinByRequest=null, hasRestrictedVoiceAndVideoMessages=null, isForum=null, activeUsernames=null, emojiStatusCustomEmojiId=null, hasAggressiveAntiSpamEnabled=null, hasHiddenMembers=null, emojiStatusExpirationDate=null), from=User(id=991871496, firstName=Ку, isBot=false, lastName=null, userName=lavahmet, languageCode=ru, canJoinGroups=null, canReadAllGroupMessages=null, supportInlineQueries=null, isPremium=null, addedToAttachmentMenu=null), date=1697294253, oldChatMember=ChatMemberBanned(status=kicked, user=User(id=6230317692, firstName=Kladowka, isBot=true, lastName=null, userName=kladowkabot, languageCode=null, canJoinGroups=null, canReadAllGroupMessages=null, supportInlineQueries=null, isPremium=null, addedToAttachmentMenu=null), untilDate=0), newChatMember=ChatMemberMember(status=member, user=User(id=6230317692, firstName=Kladowka, isBot=true, lastName=null, userName=kladowkabot, languageCode=null, canJoinGroups=null, canReadAllGroupMessages=null, supportInlineQueries=null, isPremium=null, addedToAttachmentMenu=null)), inviteLink=null, viaChatFolderInviteLink=null), chatMember=null, chatJoinRequest=null)
+/start
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Unsupported message type is : Update(updateId=138177716, message=null, inlineQuery=null, chosenInlineQuery=null, callbackQuery=null, editedMessage=null, channelPost=null, editedChannelPost=null, shippingQuery=null, preCheckoutQuery=null, poll=null, pollAnswer=null, myChatMember=ChatMemberUpdated(chat=Chat(id=991871496, type=private, title=null, firstName=Ку, lastName=null, userName=lavahmet, photo=null, description=null, inviteLink=null, pinnedMessage=null, stickerSetName=null, canSetStickerSet=null, permissions=null, slowModeDelay=null, bio=null, linkedChatId=null, location=null, messageAutoDeleteTime=null, hasPrivateForwards=null, HasProtectedContent=null, joinToSendMessages=null, joinByRequest=null, hasRestrictedVoiceAndVideoMessages=null, isForum=null, activeUsernames=null, emojiStatusCustomEmojiId=null, hasAggressiveAntiSpamEnabled=null, hasHiddenMembers=null, emojiStatusExpirationDate=null), from=User(id=991871496, firstName=Ку, isBot=false, lastName=null, userName=lavahmet, languageCode=ru, canJoinGroups=null, canReadAllGroupMessages=null, supportInlineQueries=null, isPremium=null, addedToAttachmentMenu=null), date=1698157843, oldChatMember=ChatMemberMember(status=member, user=User(id=6230317692, firstName=Kladowka, isBot=true, lastName=null, userName=kladowkabot, languageCode=null, canJoinGroups=null, canReadAllGroupMessages=null, supportInlineQueries=null, isPremium=null, addedToAttachmentMenu=null)), newChatMember=ChatMemberBanned(status=kicked, user=User(id=6230317692, firstName=Kladowka, isBot=true, lastName=null, userName=kladowkabot, languageCode=null, canJoinGroups=null, canReadAllGroupMessages=null, supportInlineQueries=null, isPremium=null, addedToAttachmentMenu=null), untilDate=0), inviteLink=null, viaChatFolderInviteLink=null), chatMember=null, chatJoinRequest=null)
+Unsupported message type is : Update(updateId=138177717, message=null, inlineQuery=null, chosenInlineQuery=null, callbackQuery=null, editedMessage=null, channelPost=null, editedChannelPost=null, shippingQuery=null, preCheckoutQuery=null, poll=null, pollAnswer=null, myChatMember=ChatMemberUpdated(chat=Chat(id=991871496, type=private, title=null, firstName=Ку, lastName=null, userName=lavahmet, photo=null, description=null, inviteLink=null, pinnedMessage=null, stickerSetName=null, canSetStickerSet=null, permissions=null, slowModeDelay=null, bio=null, linkedChatId=null, location=null, messageAutoDeleteTime=null, hasPrivateForwards=null, HasProtectedContent=null, joinToSendMessages=null, joinByRequest=null, hasRestrictedVoiceAndVideoMessages=null, isForum=null, activeUsernames=null, emojiStatusCustomEmojiId=null, hasAggressiveAntiSpamEnabled=null, hasHiddenMembers=null, emojiStatusExpirationDate=null), from=User(id=991871496, firstName=Ку, isBot=false, lastName=null, userName=lavahmet, languageCode=ru, canJoinGroups=null, canReadAllGroupMessages=null, supportInlineQueries=null, isPremium=null, addedToAttachmentMenu=null), date=1698157846, oldChatMember=ChatMemberBanned(status=kicked, user=User(id=6230317692, firstName=Kladowka, isBot=true, lastName=null, userName=kladowkabot, languageCode=null, canJoinGroups=null, canReadAllGroupMessages=null, supportInlineQueries=null, isPremium=null, addedToAttachmentMenu=null), untilDate=0), newChatMember=ChatMemberMember(status=member, user=User(id=6230317692, firstName=Kladowka, isBot=true, lastName=null, userName=kladowkabot, languageCode=null, canJoinGroups=null, canReadAllGroupMessages=null, supportInlineQueries=null, isPremium=null, addedToAttachmentMenu=null)), inviteLink=null, viaChatFolderInviteLink=null), chatMember=null, chatJoinRequest=null)
+/start
+/help
+/registration
+sdfsdfsdf
+bifahe6658@weirby.com
+
+
+
